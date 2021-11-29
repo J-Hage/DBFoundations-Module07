@@ -1,6 +1,6 @@
 # DBFoundations-Module07
 <br>
 This repository includes: <br>
-- SQL
-- Written Document
-- Webpage of written document
+<br>- SQL
+<br>- Written Document
+<br>- Webpage of written document
