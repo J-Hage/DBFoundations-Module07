@@ -15,8 +15,7 @@ Scalar function is one type of UDF. Scalar functions return as an expression a s
 
 As shown in Figure 1: Scalar Functions, the function ‘dbo.MultiplyValues’ was created to take the expression of ‘value 1’ multiplied by ‘value 2’ to return a single value. Then, when applied into a SELECT statement the function returns only the ‘Extended Price’ values in the result set.  
 
-
-Figure 1: Scalar Functions 
+![Figure1](docs/Fig1.png "Figure 1: Scalar Functions")###Figure 1: Scalar Functions 
 
 ##Inline Functions 
 Inline functions are another type of UDF. Inline functions return the result set as a table. As with scalar functions, inline functions can accept a number of parameters. In contrast to scalar functions, inline functions return a table set of results.  
