@@ -1,6 +1,6 @@
 User Defined Functions
-Author: Jourieh Hage*
-Date: Nov. 29, 2021*
+Author: Jourieh Hage
+Date: Nov. 29, 2021
 
 Introduction 
 In this paper we will learn about SQL (Structured Query Language) User Defined Functions (UDFs), what they are, and when we would use them. In addition, we will look at the differences between Scalar, Inline, and Multi-Statement functions.  
